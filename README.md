@@ -1,2 +1,2 @@
-# HTML-CSS
+Practising repositories for HTML and CSS.
  
