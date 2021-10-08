@@ -1,2 +1,2 @@
-Practising repositories for HTML and CSS.
+Practising repository for HTML and CSS.
  
