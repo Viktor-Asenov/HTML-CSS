@@ -31,6 +31,10 @@ section article p {
 
 section article div {
     text-align: left;
+    font-style: oblique;
+    font-weight: bolder;
+    color: #9D6860;
+    text-shadow: 17px 17px 2px rgba(137, 144, 146, 1);
 }
 
 .second {
@@ -39,11 +43,4 @@ section article div {
 
 .third {
     padding-top: 1rem;
-}
-
-section article div {
-    font-style: oblique;
-    font-weight: bolder;
-    color: #9D6860;
-    text-shadow: 17px 17px 2px rgba(137, 144, 146, 1);
 }
